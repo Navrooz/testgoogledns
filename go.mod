@@ -1,4 +1,5 @@
-module github.com/caddy-dns/googleclouddns
+module github.com/Navrooz/testgoogledns
+
 
 go 1.21
 
